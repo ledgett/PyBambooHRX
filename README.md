@@ -1,4 +1,6 @@
-# Discontinued: PyBambooHR
+# Under Construction: PyBambooHRX
+
+-------------------------------
 
 Hey all! When I made this project I was working for a company that was trying to do corporate things for corporate reasons. I have been gone from that company for a long time now and I don't even have access to BambooHR anymore. I appreciate all the interest and I hope you found this useful. Hopefully someone has forked this project and will pick up the torch because I don't have time or interest in maintaining this anymore.
 
